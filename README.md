@@ -1,5 +1,4 @@
-# WebBucin
-Spesial buat Rafika.
+# Spesial buat Rafika.
 
 <p>
     <a href="https://github.com/HakimIqbal" target="_blank"><img src="https://img.shields.io/badge/Github-https://HakimIqbal.github.io-red?" /></a>
